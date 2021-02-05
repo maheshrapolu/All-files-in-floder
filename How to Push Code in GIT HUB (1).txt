@@ -1,0 +1,12 @@
+-------
+Git Hub
+--------
+1)Create a Repository.
+2)Copy the URL in Clone or Downloads, button.
+3)Open Git bash here.
+4)Git clone(Enter the copied URL here from step2 ).
+5)Go to the project folder copy all files except node-module folder and come to generated repository folder and paste it.
+6)Git add -A.
+7)Git status.
+8)Git commit -m "Any message".
+9)Git Push
